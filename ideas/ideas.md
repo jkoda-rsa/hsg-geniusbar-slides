@@ -5,7 +5,7 @@ _class: class: lead invert
 class: invert
 paginate: true
 backgroundColor: #fff
-backgroundImage: url('../img/square_aussen.png')
+backgroundImage: url('../img/square_aussen.jpg')
 ---
 <style>
   :root {
@@ -44,7 +44,7 @@ Blockchains und Kryptowährungen versprechen nichts weniger als eine neue Wirtsc
 ---
 # Women in Computer Science
 
-Nur 18 % aller Informatikstudierenden sind Frauen. Eine Informatikstudentin berichtet vom Studium, und erklärt warum Frauen Informatik mindestens genau so gut können wie Männer.
+Was haben die Software der Apollo-Mission, die Computermaus und die erste Programmiersprache gemeinsam? Alle drei wurden von Frauen entwickelt. Eine Geschichte von Frauen in der Informatik.
 
 ---
 # Crash course in computational thinking
